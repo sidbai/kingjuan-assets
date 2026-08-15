@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-15T06:04:25.561Z",
+  "updated_at": "2026-08-15T06:07:28.465Z",
   "games": [
     {
-      "time": "Sat Dec 30 1899 09:00:00 GMT-0800 (Pacific Standard Time)",
+      "time": "09:00",
       "field": "Field 1",
       "age_group": "Venti",
       "team_a": "吃饼FC",
@@ -12,7 +12,7 @@
       "status": "scheduled"
     },
     {
-      "time": "Sat Dec 30 1899 09:00:00 GMT-0800 (Pacific Standard Time)",
+      "time": "09:00",
       "field": "Field 2",
       "age_group": "Grande",
       "team_a": "喂饼FC",
@@ -22,7 +22,7 @@
       "status": "final"
     },
     {
-      "time": "Sat Dec 30 1899 10:00:00 GMT-0800 (Pacific Standard Time)",
+      "time": "10:00",
       "field": "Field 2",
       "age_group": "Grande",
       "team_a": "Incredible Warriors",
@@ -32,7 +32,7 @@
       "status": "scheduled"
     },
     {
-      "time": "Sat Dec 30 1899 10:30:00 GMT-0800 (Pacific Standard Time)",
+      "time": "10:30",
       "field": "Field 3",
       "age_group": "Grande",
       "team_a": "Warriors 2016 Blue",
@@ -42,7 +42,7 @@
       "status": "scheduled"
     },
     {
-      "time": "Sat Dec 30 1899 09:30:00 GMT-0800 (Pacific Standard Time)",
+      "time": "09:30",
       "field": "Field 4",
       "age_group": "Tall",
       "team_a": "CR7 Champions",
