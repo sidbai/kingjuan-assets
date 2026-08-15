@@ -1,62 +1,49 @@
-[
-  {
-    "name": "吃饼fc",
-    "division": "Venti",
-    "group": "1",
-    "logo": "chibing-fc.png"
-  },
-  {
-    "name": "Attack Girls",
-    "division": "Grande",
-    "group": "2",
-    "logo": "attack-girls.png"
-  },
-  {
-    "name": "Incredible Warriors",
-    "division": "Grande",
-    "group": "2",
-    "logo": "incredible-warriors.png"
-  },
-  {
-    "name": "USFC15",
-    "division": "Grande",
-    "group": "1",
-    "logo": "usfc-logo.png"
-  },
-  {
-    "name": "Warriors 2016 Blue",
-    "division": "Grande",
-    "group": "1",
-    "logo": "warriors-2016-blue.png"
-  },
-  {
-    "name": "喂饼fc",
-    "division": "Grande",
-    "group": "1",
-    "logo": "weibing-fc.png"
-  },
-  {
-    "name": "CR7 Champions ",
-    "division": "Tall",
-    "group": "1",
-    "logo": "cr7-championis.png"
-  },
-  {
-    "name": "Galaxy Rockets",
-    "division": "Tall",
-    "group": "1",
-    "logo": "galaxy-rockets.png"
-  },
-  {
-    "name": "Dino Blaster",
-    "division": "Tall",
-    "group": "1",
-    "logo": "dino-blaster.png"
-  },
-  {
-    "name": "Yummy Pancakes",
-    "division": "Tall",
-    "group": "1",
-    "logo": "yummy-pancakes.PNG"
-  }
-]
+{
+  "updated_at": "2026-08-15T08:27:19.959Z",
+  "games": [
+    {
+      "division": "Grande",
+      "group": "1",
+      "time": "09:00",
+      "field": "Field 2",
+      "home_team": "喂饼FC",
+      "away_team": "USFC15",
+      "home_score": 3,
+      "away_score": 1,
+      "status": "final"
+    },
+    {
+      "division": "Grande",
+      "group": "2",
+      "time": "10:00",
+      "field": "Field 2",
+      "home_team": "Incredible Warriors",
+      "away_team": "Attack Girls",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled"
+    },
+    {
+      "division": "Grande",
+      "group": "1",
+      "time": "10:30",
+      "field": "Field 3",
+      "home_team": "Warriors 2016 Blue",
+      "away_team": "喂饼FC",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled"
+    },
+    {
+      "division": "Tall",
+      "group": "1",
+      "time": "09:30",
+      "field": "Field 4",
+      "home_team": "CR7 Champions",
+      "away_team": "Yummy Pancakes",
+      "home_score": 2,
+      "away_score": 2,
+      "status": "final"
+    }
+  ]
+}
