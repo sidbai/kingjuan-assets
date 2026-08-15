@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-15T06:43:44.296Z",
+  "updated_at": "2026-08-15T06:48:43.421Z",
   "games": [
     {
       "time": "09:00",
       "field": "Field 1",
-      "age_group": "Venti",
+      "age_group": "",
       "team_a": "吃饼FC",
       "team_b": "TBD",
       "score_a": null,
@@ -14,7 +14,7 @@
     {
       "time": "09:00",
       "field": "Field 2",
-      "age_group": "Grande",
+      "age_group": "",
       "team_a": "喂饼FC",
       "team_b": "USFC",
       "score_a": 3,
@@ -24,7 +24,7 @@
     {
       "time": "10:00",
       "field": "Field 2",
-      "age_group": "Grande",
+      "age_group": "",
       "team_a": "Incredible Warriors",
       "team_b": "Attack Girls",
       "score_a": null,
@@ -34,7 +34,7 @@
     {
       "time": "10:30",
       "field": "Field 3",
-      "age_group": "Grande",
+      "age_group": "",
       "team_a": "Warriors 2016 Blue",
       "team_b": "喂饼FC",
       "score_a": null,
@@ -44,7 +44,7 @@
     {
       "time": "09:30",
       "field": "Field 4",
-      "age_group": "Tall",
+      "age_group": "",
       "team_a": "CR7 Champions",
       "team_b": "Yummy Pancakes",
       "score_a": 2,
