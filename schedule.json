@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T19:13:44.436Z",
+  "updated_at": "2026-08-16T19:23:45.083Z",
   "enabled": false,
   "games": [
     {
@@ -14,11 +14,11 @@
       "status": "final"
     },
     {
-      "division": "Grande",
-      "group": "2",
+      "division": "Tall",
+      "group": "1",
       "time": "10:00",
       "field": "Field 2",
-      "home_team": "Incredible Warriors",
+      "home_team": "Dino Blaster",
       "away_team": "Attack Girls",
       "home_score": null,
       "away_score": null,
