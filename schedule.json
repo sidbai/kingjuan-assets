@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T00:23:46.604Z",
+  "updated_at": "2026-08-17T02:23:46.286Z",
   "enabled": false,
   "games": [
     {
@@ -14,11 +14,11 @@
       "status": "final"
     },
     {
-      "division": "Tall",
-      "group": "1",
+      "division": "Grande",
+      "group": "2",
       "time": "10:00",
       "field": "Field 2",
-      "home_team": "Dino Blaster",
+      "home_team": "TBD",
       "away_team": "Attack Girls",
       "home_score": null,
       "away_score": null,
@@ -29,7 +29,7 @@
       "group": "1",
       "time": "10:30",
       "field": "Field 3",
-      "home_team": "Warriors 2016 Blue",
+      "home_team": "Warriors B2016 Blue",
       "away_team": "喂饼FC",
       "home_score": null,
       "away_score": null,
