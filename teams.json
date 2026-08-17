@@ -18,7 +18,7 @@
     "logo": "usfc-logo.png"
   },
   {
-    "name": "Warriors 2016 Blue",
+    "name": "Warriors B2016 Blue",
     "division": "Grande",
     "group": "1",
     "logo": "warriors-2016-blue.png"
@@ -40,6 +40,12 @@
     "division": "Grande",
     "group": "2",
     "logo": "attack-girls.png"
+  },
+  {
+    "name": "Warriors GU12",
+    "division": "Grande",
+    "group": "2",
+    "logo": "warriors-2016-blue.png"
   },
   {
     "name": "CR7 Champions",
