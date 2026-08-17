@@ -36,6 +36,12 @@
     "logo": "celtic.png"
   },
   {
+    "name": "Attack Girls",
+    "division": "Grande",
+    "group": "2",
+    "logo": "attack-girls.png"
+  },
+  {
     "name": "CR7 Champions",
     "division": "Tall",
     "group": "1",
@@ -58,11 +64,5 @@
     "division": "Tall",
     "group": "1",
     "logo": "yummy-pancakes.PNG"
-  },
-  {
-    "name": "Attack Girls",
-    "division": "Tall",
-    "group": "1",
-    "logo": "attack-girls.png"
   }
 ]
