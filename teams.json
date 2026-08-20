@@ -82,5 +82,11 @@
     "division": "Tall",
     "group": "1",
     "logo": "yummy-pancakes.PNG"
+  },
+  {
+    "name": "Storm Breakers",
+    "division": "Tall",
+    "group": "2",
+    "logo": "storm-breakers.png"
   }
 ]
