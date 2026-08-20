@@ -12,6 +12,12 @@
     "logo": "atletico.png"
   },
   {
+    "name": "Top Ballers",
+    "division": "Venti",
+    "group": "2",
+    "logo": "top-ballers.png"
+  },
+  {
     "name": "Incredible Warriors",
     "division": "Grande",
     "group": "2",
