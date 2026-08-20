@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T18:33:49.085Z",
+  "updated_at": "2026-08-20T18:43:47.325Z",
   "enabled": false,
   "games": [
     {
@@ -29,7 +29,7 @@
       "group": "1",
       "time": "10:30",
       "field": "Field 3",
-      "home_team": "Warriors B2016 Blue",
+      "home_team": "Niu Lai",
       "away_team": "喂饼FC",
       "home_score": null,
       "away_score": null,
