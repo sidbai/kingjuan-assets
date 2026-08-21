@@ -42,6 +42,12 @@
     "logo": "weibing-fc.png"
   },
   {
+    "name": "SPFC",
+    "division": "Grande",
+    "group": "1",
+    "logo": "spfc.png"
+  },
+  {
     "name": "TBD",
     "division": "Grande",
     "group": "2",
