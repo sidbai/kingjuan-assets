@@ -1,25 +1,14 @@
 {
-  "updated_at": "2026-08-22T21:03:45.880Z",
+  "updated_at": "2026-08-22T21:13:45.313Z",
   "enabled": false,
   "games": [
     {
       "division": "Grande",
       "group": "1",
       "time": "09:00",
-      "field": "Field 2",
-      "home_team": "喂饼FC",
-      "away_team": "USFC B15",
-      "home_score": 3,
-      "away_score": 1,
-      "status": "final"
-    },
-    {
-      "division": "Grande",
-      "group": "2",
-      "time": "10:00",
-      "field": "Field 2",
-      "home_team": "Green Devils",
-      "away_team": "Attack Girls",
+      "field": "Field 1",
+      "home_team": "USFC B15",
+      "away_team": "Niu Lai",
       "home_score": null,
       "away_score": null,
       "status": "scheduled"
@@ -27,24 +16,68 @@
     {
       "division": "Grande",
       "group": "1",
-      "time": "10:30",
+      "time": "09:00",
+      "field": "Field 2",
+      "home_team": "喂饼FC",
+      "away_team": "SPFC",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled"
+    },
+    {
+      "division": "Grande",
+      "group": "2",
+      "time": "09:00",
       "field": "Field 3",
-      "home_team": "SPFC",
-      "away_team": "喂饼FC",
+      "home_team": "Incredible Warriors",
+      "away_team": "Green Devils",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled"
+    },
+    {
+      "division": "Grande",
+      "group": "2",
+      "time": "09:00",
+      "field": "Field 4",
+      "home_team": "Attack Girls",
+      "away_team": "Warriors GU12",
       "home_score": null,
       "away_score": null,
       "status": "scheduled"
     },
     {
       "division": "Tall",
-      "group": "1",
-      "time": "09:30",
-      "field": "Field 4",
+      "group": "",
+      "time": "9:40",
+      "field": "Field 1",
       "home_team": "CR7 Champions",
       "away_team": "Yummy Pancakes",
-      "home_score": 2,
-      "away_score": 2,
-      "status": "final"
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled"
+    },
+    {
+      "division": "Tall",
+      "group": "",
+      "time": "9:40",
+      "field": "Field 2",
+      "home_team": "Galaxy Rockets",
+      "away_team": "Storm Breakers",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled"
+    },
+    {
+      "division": "Tall",
+      "group": "",
+      "time": "9:40",
+      "field": "Field 3",
+      "home_team": "Dino Blaster",
+      "away_team": "Unstoppable",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled"
     }
   ]
 }
