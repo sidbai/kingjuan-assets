@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T04:23:45.132Z",
+  "updated_at": "2026-08-22T04:33:44.206Z",
   "enabled": false,
   "games": [
     {
@@ -18,7 +18,7 @@
       "group": "2",
       "time": "10:00",
       "field": "Field 2",
-      "home_team": "TBD",
+      "home_team": "Green Devils",
       "away_team": "Attack Girls",
       "home_score": null,
       "away_score": null,
