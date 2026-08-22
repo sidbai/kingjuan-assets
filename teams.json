@@ -18,12 +18,6 @@
     "logo": "top-ballers.png"
   },
   {
-    "name": "Incredible Warriors",
-    "division": "Grande",
-    "group": "2",
-    "logo": "incredible-warriors.png"
-  },
-  {
     "name": "USFC B15",
     "division": "Grande",
     "group": "1",
@@ -46,6 +40,12 @@
     "division": "Grande",
     "group": "1",
     "logo": "spfc.png"
+  },
+  {
+    "name": "Incredible Warriors",
+    "division": "Grande",
+    "group": "2",
+    "logo": "incredible-warriors.png"
   },
   {
     "name": "TBD",
