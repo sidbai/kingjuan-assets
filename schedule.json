@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T16:53:45.345Z",
+  "updated_at": "2026-08-22T17:23:46.179Z",
   "enabled": false,
   "games": [
     {
@@ -29,7 +29,7 @@
       "group": "1",
       "time": "10:30",
       "field": "Field 3",
-      "home_team": "Niu Lai",
+      "home_team": "SPFC",
       "away_team": "喂饼FC",
       "home_score": null,
       "away_score": null,
