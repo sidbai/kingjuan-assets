@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T01:43:44.793Z",
+  "updated_at": "2026-08-23T01:53:46.411Z",
   "enabled": true,
   "games": [
     {
@@ -257,7 +257,7 @@
     },
     {
       "division": "Venti",
-      "group": "",
+      "group": "1",
       "time": "12:20",
       "field": "Field 4",
       "home_team": "Top Ballers",
