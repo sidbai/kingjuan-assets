@@ -84,16 +84,16 @@
     "logo": "galaxy-rockets.png"
   },
   {
-    "name": "Dino Blaster",
-    "division": "Tall",
-    "group": "1",
-    "logo": "dino-blaster.png"
-  },
-  {
     "name": "Yummy Pancakes",
     "division": "Tall",
-    "group": "2",
+    "group": "1",
     "logo": "yummy-pancakes.PNG"
+  },
+  {
+    "name": "Dino Blaster",
+    "division": "Tall",
+    "group": "2",
+    "logo": "dino-blaster.png"
   },
   {
     "name": "Storm Breakers",
