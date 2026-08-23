@@ -14,26 +14,20 @@
   {
     "name": "Top Ballers",
     "division": "Venti",
-    "group": "2",
+    "group": "1",
     "logo": "top-ballers.png"
   },
   {
-    "name": "Incredible Warriors",
-    "division": "Grande",
-    "group": "2",
-    "logo": "incredible-warriors.png"
+    "name": "TBD",
+    "division": "Venti",
+    "group": "1",
+    "logo": ""
   },
   {
     "name": "USFC B15",
     "division": "Grande",
     "group": "1",
     "logo": "usfc-logo.png"
-  },
-  {
-    "name": "Niu Lai",
-    "division": "Grande",
-    "group": "1",
-    "logo": "warriors-b16-blue.PNG"
   },
   {
     "name": "喂饼FC",
@@ -48,7 +42,25 @@
     "logo": "spfc.png"
   },
   {
-    "name": "TBD",
+    "name": "Warriors GU12",
+    "division": "Grande",
+    "group": "1",
+    "logo": "warriors.png"
+  },
+  {
+    "name": "Niu Lai",
+    "division": "Grande",
+    "group": "2",
+    "logo": "warriors-b16-blue.PNG"
+  },
+  {
+    "name": "Incredible Warriors",
+    "division": "Grande",
+    "group": "2",
+    "logo": "incredible-warriors.png"
+  },
+  {
+    "name": "Green Devils",
     "division": "Grande",
     "group": "2",
     "logo": "celtic.png"
@@ -58,12 +70,6 @@
     "division": "Grande",
     "group": "2",
     "logo": "attack-girls.png"
-  },
-  {
-    "name": "Warriors GU12",
-    "division": "Grande",
-    "group": "2",
-    "logo": "warriors.png"
   },
   {
     "name": "CR7 Champions",
@@ -86,7 +92,7 @@
   {
     "name": "Yummy Pancakes",
     "division": "Tall",
-    "group": "1",
+    "group": "2",
     "logo": "yummy-pancakes.PNG"
   },
   {
@@ -94,5 +100,11 @@
     "division": "Tall",
     "group": "2",
     "logo": "storm-breakers.png"
+  },
+  {
+    "name": "Unstoppable",
+    "division": "Tall",
+    "group": "2",
+    "logo": "unstoppable.png"
   }
 ]
