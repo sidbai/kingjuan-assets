@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T01:57:29.878Z",
+  "updated_at": "2026-08-23T02:00:17.586Z",
   "enabled": true,
   "games": [
     {
@@ -48,7 +48,7 @@
     },
     {
       "division": "Tall",
-      "group": "",
+      "group": "Cross Group",
       "time": "9:40",
       "field": "Field 1",
       "home_team": "CR7 Champions",
@@ -59,7 +59,7 @@
     },
     {
       "division": "Tall",
-      "group": "",
+      "group": "Cross Group",
       "time": "9:40",
       "field": "Field 2",
       "home_team": "Galaxy Rockets",
@@ -70,7 +70,7 @@
     },
     {
       "division": "Tall",
-      "group": "",
+      "group": "Cross Group",
       "time": "9:40",
       "field": "Field 3",
       "home_team": "Dino Blaster",
@@ -136,7 +136,7 @@
     },
     {
       "division": "Tall",
-      "group": "",
+      "group": "Cross Group",
       "time": "11:00",
       "field": "Field 1",
       "home_team": "Storm Breakers",
@@ -147,7 +147,7 @@
     },
     {
       "division": "Tall",
-      "group": "",
+      "group": "Cross Group",
       "time": "11:00",
       "field": "Field 2",
       "home_team": "Unstoppable",
@@ -158,7 +158,7 @@
     },
     {
       "division": "Tall",
-      "group": "",
+      "group": "Cross Group",
       "time": "11:00",
       "field": "Field 3",
       "home_team": "Dino Blaster",
@@ -224,7 +224,7 @@
     },
     {
       "division": "Tall",
-      "group": "",
+      "group": "Cross Group",
       "time": "12:20",
       "field": "Field 1",
       "home_team": "CR7 Champions",
@@ -235,7 +235,7 @@
     },
     {
       "division": "Tall",
-      "group": "",
+      "group": "Cross Group",
       "time": "12:20",
       "field": "Field 2",
       "home_team": "Yummy Pancakes",
@@ -246,7 +246,7 @@
     },
     {
       "division": "Tall",
-      "group": "",
+      "group": "Cross Group",
       "time": "12:20",
       "field": "Field 3",
       "home_team": "Storm Breakers",
