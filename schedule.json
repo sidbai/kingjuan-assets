@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T00:53:46.355Z",
+  "updated_at": "2026-08-23T01:31:57.656Z",
   "enabled": false,
   "games": [
     {
@@ -168,6 +168,17 @@
       "status": "scheduled"
     },
     {
+      "division": "Venti",
+      "group": "1",
+      "time": "11:00",
+      "field": "Field 4",
+      "home_team": "TBD",
+      "away_team": "Top Ballers",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled"
+    },
+    {
       "division": "Grande",
       "group": "1",
       "time": "11:40",
@@ -240,6 +251,127 @@
       "field": "Field 3",
       "home_team": "Storm Breakers",
       "away_team": "Dino Blaster",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled"
+    },
+    {
+      "division": "Venti",
+      "group": "",
+      "time": "12:20",
+      "field": "Field 4",
+      "home_team": "Top Ballers",
+      "away_team": "吃饼FC",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled"
+    },
+    {
+      "division": "Grande",
+      "group": "Semi",
+      "time": "1:00",
+      "field": "Field 1",
+      "home_team": "Group 1 Winner",
+      "away_team": "Group 2 Runner-up",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled"
+    },
+    {
+      "division": "Grande",
+      "group": "Semi",
+      "time": "1:00",
+      "field": "Field 2",
+      "home_team": "Group 2 Winner",
+      "away_team": "Group 1 Runner-up",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled"
+    },
+    {
+      "division": "Tall",
+      "group": "Semi",
+      "time": "1:00",
+      "field": "Field 3",
+      "home_team": "Group 1 Winner",
+      "away_team": "Group 2 Runner-up",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled"
+    },
+    {
+      "division": "Tall",
+      "group": "Semi",
+      "time": "1:00",
+      "field": "Field 4",
+      "home_team": "Group 2 Winner",
+      "away_team": "Group 1 Runner-up",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled"
+    },
+    {
+      "division": "Grande",
+      "group": "Final",
+      "time": "1:40",
+      "field": "Field 1",
+      "home_team": "Semi Winner 1",
+      "away_team": "Semi Winner 2",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled"
+    },
+    {
+      "division": "Tall",
+      "group": "Final",
+      "time": "1:40",
+      "field": "Field 2",
+      "home_team": "Semi Winner 1",
+      "away_team": "Semi Winner 2",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled"
+    },
+    {
+      "division": "Venti",
+      "group": "1",
+      "time": "1:40",
+      "field": "Field 3",
+      "home_team": "吃饼FC",
+      "away_team": "TBD",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled"
+    },
+    {
+      "division": "Venti",
+      "group": "1",
+      "time": "1:40",
+      "field": "Field 1",
+      "home_team": "Top Ballers",
+      "away_team": "Atletico 2013",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled"
+    },
+    {
+      "division": "Venti",
+      "group": "1",
+      "time": "2:30",
+      "field": "Field 2",
+      "home_team": "Atletico 2013",
+      "away_team": "TBD",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled"
+    },
+    {
+      "division": "Venti",
+      "group": "Final",
+      "time": "3:20",
+      "field": "Field 3",
+      "home_team": "Group Winner",
+      "away_team": "Group Runner-up",
       "home_score": null,
       "away_score": null,
       "status": "scheduled"
