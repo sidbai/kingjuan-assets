@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T22:13:47.619Z",
+  "updated_at": "2026-08-24T22:23:44.528Z",
   "enabled": true,
   "games": [
     {
@@ -348,7 +348,7 @@
       "group": "1",
       "time": "1:40",
       "field": "Field 4",
-      "home_team": "TBD",
+      "home_team": "Lightning",
       "away_team": "Top Ballers",
       "home_score": null,
       "away_score": null,
@@ -360,7 +360,7 @@
       "time": "2:30",
       "field": "Field 3",
       "home_team": "Atletico 2013",
-      "away_team": "TBD",
+      "away_team": "Lightning",
       "home_score": null,
       "away_score": null,
       "status": "scheduled"
@@ -393,7 +393,7 @@
       "time": "3:20",
       "field": "Field 4",
       "home_team": "吃饼FC",
-      "away_team": "TBD",
+      "away_team": "Lightning",
       "home_score": null,
       "away_score": null,
       "status": "scheduled"
