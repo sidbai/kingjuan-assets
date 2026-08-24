@@ -27,7 +27,7 @@
     "name": "烙饼FC",
     "division": "Grande",
     "group": "1",
-    "logo": "usfc-logo.png"
+    "logo": "laobing.png"
   },
   {
     "name": "喂饼FC",
@@ -42,16 +42,16 @@
     "logo": "spfc.png"
   },
   {
-    "name": "Warriors GU12",
-    "division": "Grande",
-    "group": "1",
-    "logo": "warriors.png"
-  },
-  {
     "name": "Niu Lai",
     "division": "Grande",
-    "group": "2",
+    "group": "1",
     "logo": "warriors-b16-blue.PNG"
+  },
+  {
+    "name": "Warriors GU12",
+    "division": "Grande",
+    "group": "2",
+    "logo": "warriors.png"
   },
   {
     "name": "Incredible Warriors",
