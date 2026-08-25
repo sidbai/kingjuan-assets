@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T04:23:45.763Z",
+  "updated_at": "2026-08-25T04:33:47.460Z",
   "enabled": true,
   "games": [
     {
@@ -334,30 +334,8 @@
     },
     {
       "division": "Venti",
-      "group": "1",
-      "time": "1:40",
-      "field": "Field 3",
-      "home_team": "Atletico 2013",
-      "away_team": "吃饼FC",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled"
-    },
-    {
-      "division": "Venti",
-      "group": "1",
-      "time": "1:40",
-      "field": "Field 4",
-      "home_team": "Lightning",
-      "away_team": "Top Ballers",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled"
-    },
-    {
-      "division": "Venti",
-      "group": "1",
-      "time": "2:30",
+      "group": "Cross Group",
+      "time": "2:20",
       "field": "Field 3",
       "home_team": "Atletico 2013",
       "away_team": "Lightning",
@@ -367,8 +345,30 @@
     },
     {
       "division": "Venti",
-      "group": "1",
-      "time": "2:30",
+      "group": "Cross Group",
+      "time": "2:20",
+      "field": "Field 4",
+      "home_team": "Laguna FC",
+      "away_team": "Top Ballers",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled"
+    },
+    {
+      "division": "Venti",
+      "group": "Cross Group",
+      "time": "2:20",
+      "field": "Field 3",
+      "home_team": "吃饼FC",
+      "away_team": "TBD",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled"
+    },
+    {
+      "division": "Venti",
+      "group": "Cross Group",
+      "time": "3:00",
       "field": "Field 4",
       "home_team": "吃饼FC",
       "away_team": "Top Ballers",
@@ -378,8 +378,8 @@
     },
     {
       "division": "Venti",
-      "group": "1",
-      "time": "3:20",
+      "group": "Cross Group",
+      "time": "3:00",
       "field": "Field 3",
       "home_team": "Atletico 2013",
       "away_team": "Top Ballers",
@@ -389,8 +389,8 @@
     },
     {
       "division": "Venti",
-      "group": "1",
-      "time": "3:20",
+      "group": "Cross Group",
+      "time": "3:00",
       "field": "Field 4",
       "home_team": "吃饼FC",
       "away_team": "Lightning",
@@ -401,7 +401,7 @@
     {
       "division": "Venti",
       "group": "Final",
-      "time": "4:10",
+      "time": "4:20",
       "field": "Field 3",
       "home_team": "Group Winner",
       "away_team": "Group Runner-up",
