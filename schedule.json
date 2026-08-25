@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T04:38:29.554Z",
+  "updated_at": "2026-08-25T04:41:04.676Z",
   "enabled": true,
   "games": [
     {
@@ -269,7 +269,7 @@
     {
       "division": "Grande",
       "group": "Semi",
-      "time": "1:00",
+      "time": "13:00",
       "field": "Field 1",
       "home_team": "Group 1 Winner",
       "away_team": "Group 2 Runner-up",
@@ -280,7 +280,7 @@
     {
       "division": "Grande",
       "group": "Semi",
-      "time": "1:00",
+      "time": "13:00",
       "field": "Field 2",
       "home_team": "Group 2 Winner",
       "away_team": "Group 1 Runner-up",
@@ -291,7 +291,7 @@
     {
       "division": "Tall",
       "group": "Semi",
-      "time": "1:00",
+      "time": "13:00",
       "field": "Field 3",
       "home_team": "Group 1 Winner",
       "away_team": "Group 2 Runner-up",
@@ -302,7 +302,7 @@
     {
       "division": "Tall",
       "group": "Semi",
-      "time": "1:00",
+      "time": "13:00",
       "field": "Field 4",
       "home_team": "Group 2 Winner",
       "away_team": "Group 1 Runner-up",
@@ -313,7 +313,7 @@
     {
       "division": "Grande",
       "group": "Final",
-      "time": "1:40",
+      "time": "13:40",
       "field": "Field 1",
       "home_team": "Semi Winner 1",
       "away_team": "Semi Winner 2",
@@ -324,7 +324,7 @@
     {
       "division": "Tall",
       "group": "Final",
-      "time": "1:40",
+      "time": "13:40",
       "field": "Field 2",
       "home_team": "Semi Winner 1",
       "away_team": "Semi Winner 2",
@@ -335,7 +335,7 @@
     {
       "division": "Venti",
       "group": "Cross Group",
-      "time": "2:20",
+      "time": "14:30",
       "field": "Field 1",
       "home_team": "Atletico 2013",
       "away_team": "Lightning",
@@ -346,7 +346,7 @@
     {
       "division": "Venti",
       "group": "Cross Group",
-      "time": "2:20",
+      "time": "14:30",
       "field": "Field 2",
       "home_team": "Laguna FC",
       "away_team": "Top Ballers",
@@ -357,7 +357,7 @@
     {
       "division": "Venti",
       "group": "Cross Group",
-      "time": "2:20",
+      "time": "14:30",
       "field": "Field 3",
       "home_team": "吃饼FC",
       "away_team": "TBD",
@@ -368,7 +368,7 @@
     {
       "division": "Venti",
       "group": "Cross Group",
-      "time": "3:00",
+      "time": "15:10",
       "field": "Field 1",
       "home_team": "Lightning",
       "away_team": "Top Ballers",
@@ -379,7 +379,7 @@
     {
       "division": "Venti",
       "group": "Cross Group",
-      "time": "3:00",
+      "time": "15:10",
       "field": "Field 2",
       "home_team": "Laguna FC",
       "away_team": "吃饼FC",
@@ -390,7 +390,7 @@
     {
       "division": "Venti",
       "group": "Cross Group",
-      "time": "3:00",
+      "time": "15:10",
       "field": "Field 3",
       "home_team": "TBD",
       "away_team": "Atletico 2013",
@@ -401,7 +401,7 @@
     {
       "division": "Venti",
       "group": "Cross Group",
-      "time": "3:40",
+      "time": "15:50",
       "field": "Field 1",
       "home_team": "Atletico 2013",
       "away_team": "Laguna FC",
@@ -412,7 +412,7 @@
     {
       "division": "Venti",
       "group": "Cross Group",
-      "time": "3:40",
+      "time": "15:50",
       "field": "Field 2",
       "home_team": "Top Ballers",
       "away_team": "TBD",
@@ -423,7 +423,7 @@
     {
       "division": "Venti",
       "group": "Cross Group",
-      "time": "3:40",
+      "time": "15:50",
       "field": "Field 3",
       "home_team": "Lightning",
       "away_team": "吃饼FC",
@@ -434,7 +434,7 @@
     {
       "division": "Venti",
       "group": "Semi",
-      "time": "4:20",
+      "time": "16:30",
       "field": "Field 1",
       "home_team": "Group 1 Winner",
       "away_team": "Group 2 Runner-up",
@@ -445,7 +445,7 @@
     {
       "division": "Venti",
       "group": "Semi",
-      "time": "4:20",
+      "time": "16:30",
       "field": "Field 2",
       "home_team": "Group 2 Winner",
       "away_team": "Group 1 Runner-up",
@@ -456,7 +456,7 @@
     {
       "division": "Venti",
       "group": "Final",
-      "time": "5:00",
+      "time": "17:10",
       "field": "Field 1",
       "home_team": "Semi Winner 1",
       "away_team": "Semi Winner 2",
