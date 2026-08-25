@@ -20,8 +20,20 @@
   {
     "name": "Lightning",
     "division": "Venti",
-    "group": "1",
+    "group": "2",
     "logo": "lightning.png"
+  },
+  {
+    "name": "Laguna FC",
+    "division": "Venti",
+    "group": "2",
+    "logo": "laguana.png"
+  },
+  {
+    "name": "TBD",
+    "division": "Venti",
+    "group": "2",
+    "logo": "tbd.png"
   },
   {
     "name": "烙饼FC",
