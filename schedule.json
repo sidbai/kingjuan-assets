@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T05:33:47.167Z",
+  "updated_at": "2026-08-25T05:43:46.878Z",
   "enabled": true,
   "games": [
     {
@@ -349,7 +349,7 @@
       "time": "14:30",
       "field": "Field 2",
       "home_team": "Laguna FC",
-      "away_team": "Top Ballers",
+      "away_team": "TBD",
       "home_score": null,
       "away_score": null,
       "status": "scheduled"
@@ -360,7 +360,7 @@
       "time": "14:30",
       "field": "Field 3",
       "home_team": "吃饼FC",
-      "away_team": "TBD",
+      "away_team": "Top Ballers",
       "home_score": null,
       "away_score": null,
       "status": "scheduled"
@@ -392,7 +392,7 @@
       "group": "Cross Group",
       "time": "15:10",
       "field": "Field 3",
-      "home_team": "TBD",
+      "home_team": "Top Ballers",
       "away_team": "Atletico 2013",
       "home_score": null,
       "away_score": null,
@@ -414,8 +414,8 @@
       "group": "Cross Group",
       "time": "15:50",
       "field": "Field 2",
-      "home_team": "Top Ballers",
-      "away_team": "TBD",
+      "home_team": "TBD",
+      "away_team": "Top Ballers",
       "home_score": null,
       "away_score": null,
       "status": "scheduled"
