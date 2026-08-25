@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T04:33:47.460Z",
+  "updated_at": "2026-08-25T04:38:29.554Z",
   "enabled": true,
   "games": [
     {
@@ -336,7 +336,7 @@
       "division": "Venti",
       "group": "Cross Group",
       "time": "2:20",
-      "field": "Field 3",
+      "field": "Field 1",
       "home_team": "Atletico 2013",
       "away_team": "Lightning",
       "home_score": null,
@@ -347,7 +347,7 @@
       "division": "Venti",
       "group": "Cross Group",
       "time": "2:20",
-      "field": "Field 4",
+      "field": "Field 2",
       "home_team": "Laguna FC",
       "away_team": "Top Ballers",
       "home_score": null,
@@ -369,9 +369,20 @@
       "division": "Venti",
       "group": "Cross Group",
       "time": "3:00",
-      "field": "Field 4",
-      "home_team": "吃饼FC",
+      "field": "Field 1",
+      "home_team": "Lightning",
       "away_team": "Top Ballers",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled"
+    },
+    {
+      "division": "Venti",
+      "group": "Cross Group",
+      "time": "3:00",
+      "field": "Field 2",
+      "home_team": "Laguna FC",
+      "away_team": "吃饼FC",
       "home_score": null,
       "away_score": null,
       "status": "scheduled"
@@ -381,8 +392,8 @@
       "group": "Cross Group",
       "time": "3:00",
       "field": "Field 3",
-      "home_team": "Atletico 2013",
-      "away_team": "Top Ballers",
+      "home_team": "TBD",
+      "away_team": "Atletico 2013",
       "home_score": null,
       "away_score": null,
       "status": "scheduled"
@@ -390,10 +401,54 @@
     {
       "division": "Venti",
       "group": "Cross Group",
-      "time": "3:00",
-      "field": "Field 4",
-      "home_team": "吃饼FC",
-      "away_team": "Lightning",
+      "time": "3:40",
+      "field": "Field 1",
+      "home_team": "Atletico 2013",
+      "away_team": "Laguna FC",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled"
+    },
+    {
+      "division": "Venti",
+      "group": "Cross Group",
+      "time": "3:40",
+      "field": "Field 2",
+      "home_team": "Top Ballers",
+      "away_team": "TBD",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled"
+    },
+    {
+      "division": "Venti",
+      "group": "Cross Group",
+      "time": "3:40",
+      "field": "Field 3",
+      "home_team": "Lightning",
+      "away_team": "吃饼FC",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled"
+    },
+    {
+      "division": "Venti",
+      "group": "Semi",
+      "time": "4:20",
+      "field": "Field 1",
+      "home_team": "Group 1 Winner",
+      "away_team": "Group 2 Runner-up",
+      "home_score": null,
+      "away_score": null,
+      "status": "scheduled"
+    },
+    {
+      "division": "Venti",
+      "group": "Semi",
+      "time": "4:20",
+      "field": "Field 2",
+      "home_team": "Group 2 Winner",
+      "away_team": "Group 1 Runner-up",
       "home_score": null,
       "away_score": null,
       "status": "scheduled"
@@ -401,10 +456,10 @@
     {
       "division": "Venti",
       "group": "Final",
-      "time": "4:20",
-      "field": "Field 3",
-      "home_team": "Group Winner",
-      "away_team": "Group Runner-up",
+      "time": "5:00",
+      "field": "Field 1",
+      "home_team": "Semi Winner 1",
+      "away_team": "Semi Winner 2",
       "home_score": null,
       "away_score": null,
       "status": "scheduled"
