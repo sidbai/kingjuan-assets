@@ -24,12 +24,6 @@
     "logo": "lightning.png"
   },
   {
-    "name": "烙饼FC",
-    "division": "Grande",
-    "group": "1",
-    "logo": "laobing.png"
-  },
-  {
     "name": "喂饼FC",
     "division": "Grande",
     "group": "1",
@@ -50,8 +44,14 @@
   {
     "name": "Warriors GU12",
     "division": "Grande",
-    "group": "2",
+    "group": "1",
     "logo": "warriors.png"
+  },
+  {
+    "name": "烙饼FC",
+    "division": "Grande",
+    "group": "2",
+    "logo": "laobing.png"
   },
   {
     "name": "Incredible Warriors",
