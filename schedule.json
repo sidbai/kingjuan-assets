@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T18:23:46.874Z",
+  "updated_at": "2026-08-26T18:33:46.736Z",
   "enabled": true,
   "games": [
     {
@@ -8,7 +8,7 @@
       "time": "09:00",
       "field": "Field 1",
       "home_team": "Niu Lai",
-      "away_team": "烙饼FC",
+      "away_team": "Warriors GU12",
       "home_score": null,
       "away_score": null,
       "status": "scheduled"
@@ -40,7 +40,7 @@
       "group": "2",
       "time": "09:00",
       "field": "Field 4",
-      "home_team": "Warriors GU12",
+      "home_team": "烙饼FC",
       "away_team": "Attack Girls",
       "home_score": null,
       "away_score": null,
@@ -96,7 +96,7 @@
       "time": "10:20",
       "field": "Field 1",
       "home_team": "喂饼FC",
-      "away_team": "烙饼FC",
+      "away_team": "Warriors GU12",
       "home_score": null,
       "away_score": null,
       "status": "scheduled"
@@ -129,7 +129,7 @@
       "time": "10:20",
       "field": "Field 4",
       "home_team": "Green Devils",
-      "away_team": "Warriors GU12",
+      "away_team": "烙饼FC",
       "home_score": null,
       "away_score": null,
       "status": "scheduled"
@@ -183,7 +183,7 @@
       "group": "1",
       "time": "11:40",
       "field": "Field 1",
-      "home_team": "烙饼FC",
+      "home_team": "Warriors GU12",
       "away_team": "SPFC",
       "home_score": null,
       "away_score": null,
@@ -206,7 +206,7 @@
       "time": "11:40",
       "field": "Field 3",
       "home_team": "Incredible Warriors",
-      "away_team": "Warriors GU12",
+      "away_team": "烙饼FC",
       "home_score": null,
       "away_score": null,
       "status": "scheduled"
