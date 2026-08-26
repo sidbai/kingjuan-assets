@@ -14,26 +14,14 @@
   {
     "name": "Top Ballers",
     "division": "Venti",
-    "group": "2",
+    "group": "1",
     "logo": "top-ballers.png"
   },
   {
     "name": "Lightning",
     "division": "Venti",
-    "group": "2",
-    "logo": "lightning.png"
-  },
-  {
-    "name": "Laguna FC",
-    "division": "Venti",
-    "group": "2",
-    "logo": "laguna.png"
-  },
-  {
-    "name": "TBD",
-    "division": "Venti",
     "group": "1",
-    "logo": "tbd.png"
+    "logo": "lightning.png"
   },
   {
     "name": "烙饼FC",
