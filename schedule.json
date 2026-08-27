@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T03:23:45.973Z",
+  "updated_at": "2026-08-27T03:33:45.848Z",
   "enabled": true,
   "games": [
     {
@@ -51,7 +51,7 @@
       "group": "1",
       "time": "9:40",
       "field": "Field 1",
-      "home_team": "CR7 Champions",
+      "home_team": "The Wildcards",
       "away_team": "Galaxy Rockets",
       "home_score": null,
       "away_score": null,
@@ -85,7 +85,7 @@
       "time": "9:40",
       "field": "Field 4",
       "home_team": "Unstoppable",
-      "away_team": "The Wildcards",
+      "away_team": "CR7 Champions",
       "home_score": null,
       "away_score": null,
       "status": "scheduled"
@@ -139,7 +139,7 @@
       "group": "1",
       "time": "11:00",
       "field": "Field 1",
-      "home_team": "CR7 Champions",
+      "home_team": "The Wildcards",
       "away_team": "Yummy Pancakes",
       "home_score": null,
       "away_score": null,
@@ -172,8 +172,8 @@
       "group": "2",
       "time": "11:00",
       "field": "Field 4",
-      "home_team": "Storm Breakers",
-      "away_team": "The Wildcards",
+      "home_team": "CR7 Champions",
+      "away_team": "Storm Breakers",
       "home_score": null,
       "away_score": null,
       "status": "scheduled"
@@ -239,7 +239,7 @@
       "time": "12:20",
       "field": "Field 2",
       "home_team": "Flaming Soccer Ball",
-      "away_team": "CR7 Champions",
+      "away_team": "The Wildcards",
       "home_score": null,
       "away_score": null,
       "status": "scheduled"
@@ -250,7 +250,7 @@
       "time": "12:20",
       "field": "Field 3",
       "home_team": "Dino Blaster",
-      "away_team": "The Wildcards",
+      "away_team": "CR7 Champions",
       "home_score": null,
       "away_score": null,
       "status": "scheduled"
