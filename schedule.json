@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T16:43:46.415Z",
+  "updated_at": "2026-08-29T16:50:26.470Z",
   "enabled": true,
   "games": [
     {
@@ -9,9 +9,9 @@
       "field": "Field 1",
       "home_team": "Niu Lai",
       "away_team": "Warriors GU12",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled"
+      "home_score": 9,
+      "away_score": 2,
+      "status": "final"
     },
     {
       "division": "Grande",
@@ -20,9 +20,9 @@
       "field": "Field 2",
       "home_team": "SPFC",
       "away_team": "喂饼FC",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled"
+      "home_score": 3,
+      "away_score": 5,
+      "status": "final"
     },
     {
       "division": "Grande",
@@ -31,9 +31,9 @@
       "field": "Field 3",
       "home_team": "Green Devils",
       "away_team": "Incredible Warriors",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled"
+      "home_score": 7,
+      "away_score": 3,
+      "status": "final"
     },
     {
       "division": "Grande",
@@ -42,9 +42,9 @@
       "field": "Field 4",
       "home_team": "烙饼FC",
       "away_team": "Attack Girls",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled"
+      "home_score": 1,
+      "away_score": 2,
+      "status": "final"
     },
     {
       "division": "Tall",
