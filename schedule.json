@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T19:36:20.164Z",
+  "updated_at": "2026-08-29T19:36:47.392Z",
   "enabled": true,
   "games": [
     {
@@ -218,9 +218,9 @@
       "field": "Field 4",
       "home_team": "Attack Girls",
       "away_team": "Green Devils",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled"
+      "home_score": 1,
+      "away_score": 4,
+      "status": "final"
     },
     {
       "division": "Tall",
