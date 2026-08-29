@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T20:20:08.843Z",
+  "updated_at": "2026-08-29T20:23:45.317Z",
   "enabled": true,
   "games": [
     {
@@ -269,10 +269,10 @@
     {
       "division": "Grande",
       "group": "Semi",
-      "time": "13:00",
+      "time": "13:35",
       "field": "Field 1",
-      "home_team": "Group 1 Winner",
-      "away_team": "Group 2 Runner-up",
+      "home_team": "喂饼FC",
+      "away_team": "烙饼FC",
       "home_score": null,
       "away_score": null,
       "status": "scheduled"
@@ -280,10 +280,10 @@
     {
       "division": "Grande",
       "group": "Semi",
-      "time": "13:00",
+      "time": "13:35",
       "field": "Field 2",
-      "home_team": "Group 2 Winner",
-      "away_team": "Group 1 Runner-up",
+      "home_team": "Green Devils",
+      "away_team": "Niu Lai",
       "home_score": null,
       "away_score": null,
       "status": "scheduled"
@@ -291,10 +291,10 @@
     {
       "division": "Tall",
       "group": "Semi",
-      "time": "13:00",
+      "time": "13:35",
       "field": "Field 3",
-      "home_team": "Group 1 Winner",
-      "away_team": "Group 2 Runner-up",
+      "home_team": "Yummy Pancakes",
+      "away_team": "Dino Blaster",
       "home_score": null,
       "away_score": null,
       "status": "scheduled"
@@ -302,10 +302,10 @@
     {
       "division": "Tall",
       "group": "Semi",
-      "time": "13:00",
+      "time": "13:35",
       "field": "Field 4",
-      "home_team": "Group 2 Winner",
-      "away_team": "Group 1 Runner-up",
+      "home_team": "Storm Breakers",
+      "away_team": "The Wildcards",
       "home_score": null,
       "away_score": null,
       "status": "scheduled"
