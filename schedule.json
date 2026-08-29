@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T23:33:46.011Z",
+  "updated_at": "2026-08-29T23:40:24.804Z",
   "enabled": true,
   "games": [
     {
@@ -361,9 +361,9 @@
       "field": "Field 3",
       "home_team": "吃饼FC",
       "away_team": "Atletico 2013",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled"
+      "home_score": 7,
+      "away_score": 5,
+      "status": "final"
     },
     {
       "division": "Venti",
@@ -372,9 +372,9 @@
       "field": "Field 4",
       "home_team": "Lightning",
       "away_team": "Top Ballers",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled"
+      "home_score": 3,
+      "away_score": 8,
+      "status": "final"
     },
     {
       "division": "Venti",
