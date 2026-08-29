@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T21:10:34.291Z",
+  "updated_at": "2026-08-29T21:13:46.674Z",
   "enabled": true,
   "games": [
     {
@@ -306,9 +306,9 @@
       "field": "Field 2",
       "home_team": "Storm Breakers",
       "away_team": "The Wildcards",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled"
+      "home_score": 5,
+      "away_score": 1,
+      "status": "final"
     },
     {
       "division": "Grande",
@@ -326,7 +326,7 @@
       "group": "Final",
       "time": "13:40",
       "field": "Field 2",
-      "home_team": "Semi Winner 1",
+      "home_team": "Storm Breakers",
       "away_team": "Semi Winner 2",
       "home_score": null,
       "away_score": null,
