@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T19:36:47.392Z",
+  "updated_at": "2026-08-29T19:38:27.597Z",
   "enabled": true,
   "games": [
     {
@@ -185,9 +185,9 @@
       "field": "Field 1",
       "home_team": "Warriors GU12",
       "away_team": "SPFC",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled"
+      "home_score": 1,
+      "away_score": 3,
+      "status": "final"
     },
     {
       "division": "Grande",
@@ -207,9 +207,9 @@
       "field": "Field 3",
       "home_team": "Incredible Warriors",
       "away_team": "烙饼FC",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled"
+      "home_score": 5,
+      "away_score": 5,
+      "status": "final"
     },
     {
       "division": "Grande",
