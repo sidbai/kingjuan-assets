@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T20:13:46.505Z",
+  "updated_at": "2026-08-29T20:20:08.843Z",
   "enabled": true,
   "games": [
     {
@@ -229,9 +229,9 @@
       "field": "Field 1",
       "home_team": "Galaxy Rockets",
       "away_team": "Yummy Pancakes",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled"
+      "home_score": 0,
+      "away_score": 11,
+      "status": "final"
     },
     {
       "division": "Tall",
@@ -240,9 +240,9 @@
       "field": "Field 2",
       "home_team": "Flaming Soccer Ball",
       "away_team": "The Wildcards",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled"
+      "home_score": 0,
+      "away_score": 7,
+      "status": "final"
     },
     {
       "division": "Tall",
@@ -251,9 +251,9 @@
       "field": "Field 3",
       "home_team": "Dino Blaster",
       "away_team": "CR7 Champions",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled"
+      "home_score": 3,
+      "away_score": 3,
+      "status": "final"
     },
     {
       "division": "Tall",
@@ -262,9 +262,9 @@
       "field": "Field 4",
       "home_team": "Storm Breakers",
       "away_team": "Unstoppable",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled"
+      "home_score": 4,
+      "away_score": 2,
+      "status": "final"
     },
     {
       "division": "Grande",
