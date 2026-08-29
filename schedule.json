@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T20:23:45.317Z",
+  "updated_at": "2026-08-29T20:25:41.519Z",
   "enabled": true,
   "games": [
     {
@@ -270,7 +270,7 @@
       "division": "Grande",
       "group": "Semi",
       "time": "13:35",
-      "field": "Field 1",
+      "field": "Field 3",
       "home_team": "喂饼FC",
       "away_team": "烙饼FC",
       "home_score": null,
@@ -281,7 +281,7 @@
       "division": "Grande",
       "group": "Semi",
       "time": "13:35",
-      "field": "Field 2",
+      "field": "Field 4",
       "home_team": "Green Devils",
       "away_team": "Niu Lai",
       "home_score": null,
@@ -292,7 +292,7 @@
       "division": "Tall",
       "group": "Semi",
       "time": "13:35",
-      "field": "Field 3",
+      "field": "Field 1",
       "home_team": "Yummy Pancakes",
       "away_team": "Dino Blaster",
       "home_score": null,
@@ -303,7 +303,7 @@
       "division": "Tall",
       "group": "Semi",
       "time": "13:35",
-      "field": "Field 4",
+      "field": "Field 2",
       "home_team": "Storm Breakers",
       "away_team": "The Wildcards",
       "home_score": null,
