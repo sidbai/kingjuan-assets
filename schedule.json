@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T22:43:47.342Z",
+  "updated_at": "2026-08-29T22:50:32.834Z",
   "enabled": true,
   "games": [
     {
@@ -317,9 +317,9 @@
       "field": "Field 1",
       "home_team": "Green Devils",
       "away_team": "喂饼FC",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled"
+      "home_score": 0,
+      "away_score": 4,
+      "status": "final"
     },
     {
       "division": "Tall",
@@ -328,9 +328,9 @@
       "field": "Field 2",
       "home_team": "Storm Breakers",
       "away_team": "Yummy Pancakes",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled"
+      "home_score": 3,
+      "away_score": 4,
+      "status": "final"
     },
     {
       "division": "Venti",
@@ -339,9 +339,9 @@
       "field": "Field 3",
       "home_team": "Atletico 2013",
       "away_team": "Lightning",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled"
+      "home_score": 4,
+      "away_score": 12,
+      "status": "final"
     },
     {
       "division": "Venti",
@@ -350,9 +350,9 @@
       "field": "Field 4",
       "home_team": "吃饼FC",
       "away_team": "Top Ballers",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled"
+      "home_score": 5,
+      "away_score": 11,
+      "status": "final"
     },
     {
       "division": "Venti",
