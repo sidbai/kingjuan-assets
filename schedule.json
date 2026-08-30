@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T03:33:48.612Z",
+  "updated_at": "2026-08-30T03:41:39.014Z",
   "enabled": true,
   "games": [
     {
@@ -405,9 +405,9 @@
       "field": "Field 3",
       "home_team": "Top Ballers",
       "away_team": "Lightning",
-      "home_score": null,
-      "away_score": null,
-      "status": "scheduled"
+      "home_score": 6,
+      "away_score": 15,
+      "status": "final"
     }
   ]
 }
